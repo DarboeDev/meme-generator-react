@@ -7,15 +7,15 @@ The Meme Generator is a React-based web application that enables users to genera
 
 
 
-
 Features
-Real-time meme image fetching from the Imgflip API.
-Form for adding custom top and bottom text to the meme.
-Random meme image selection for generating memes.
-Responsive design for various devices.
-Technologies Used
-React
-HTML
-CSS
-JavaScript
-Imgflip API
+*Real-time meme image fetching from the Imgflip API.
+*Form for adding custom top and bottom text to the meme.
+*Random meme image selection for generating memes.
+*Responsive design for various devices.
+
+#Technologies Used
+-React
+-HTML
+-CSS
+-JavaScript
+-Imgflip API
